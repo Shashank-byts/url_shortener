@@ -1,4 +1,3 @@
-
 const { nanoid } =require("nanoid");
 const URL=require('../models/url.models');
 async function generateNewShortURL(req,res) {
